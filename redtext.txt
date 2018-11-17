@@ -1,0 +1,233 @@
+[string "./script/utility.lua"]:44: attempt to perform arithmetic on a table value (local 'code')
+[string "./script/c12006010.lua"]:50: malformed number near '08fbd'
+"CallCardFunction"(c12006010.initial_effect): attempt to call an error function
+[string "./script/c12009043.lua"]:60: unexpected symbol near '~='
+"CallCardFunction"(c12009043.initial_effect): attempt to call an error function
+[string "./script/c13257222.lua"]:10: ')' expected (to close '(' at line 9) near 'e0'
+"CallCardFunction"(c13257222.initial_effect): attempt to call an error function
+[string "./script/c15415173.lua"]:15: attempt to index a nil value (global 'c15415158')
+[string "./script/c15415173.lua"]:10: Parameter 2 should be "Function".
+[string "./script/c17061106.lua"]:11: attempt to index a nil value (global 'e3')
+[string "./script/c17061112.lua"]:16: attempt to index a nil value (global 'e3')
+[string "./script/c22600024.lua"]:5: attempt to index a nil value (global 'c22600018')
+[string "./script/c47500017.lua"]:64: attempt to index a nil value (global 'c47510001')
+[string "./script/c47500017.lua"]:15: Parameter 2 should be "Function".
+[string "./script/c47500033.lua"]:28: <name> expected near 'end'
+"CallCardFunction"(c47500033.initial_effect): attempt to call an error function
+[string "./script/c47510241.lua"]:48: attempt to index a nil value (global 'c47510231')
+[string "./script/c47510241.lua"]:19: Parameter 2 should be "Function".
+[string "./script/c47520003.lua"]:71: ')' expected (to close '(' at line 70) near 'tc'
+"CallCardFunction"(c47520003.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008100.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008101.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008102.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008103.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008104.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008105.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008106.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008107.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008108.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008109.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008110.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008200.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008201.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008202.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008203.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008204.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008205.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008206.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008207.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008208.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008209.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008210.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008211.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008212.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008213.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008214.initial_effect): attempt to call an error function
+./expansions/script/Millux.lua:2: module 'os' not found:
+	no field package.preload['os']
+	no file '/usr/local/share/lua/5.3/os.lua'
+	no file '/usr/local/share/lua/5.3/os/init.lua'
+	no file '/usr/local/lib/lua/5.3/os.lua'
+	no file '/usr/local/lib/lua/5.3/o
+"CallCardFunction"(c50008215.initial_effect): attempt to call an error function
+[string "./script/c50218133.lua"]:24: attempt to index a nil value (global 'c13331639')
+[string "./script/c50218133.lua"]:17: attempt to index a nil value (global 'c13331639')
+"CallCardFunction"(c50218134.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218135.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218136.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218137.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218138.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218141.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218142.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218143.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218144.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218145.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218146.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218147.initial_effect): attempt to call an error function
+"CallCardFunction"(c50218148.initial_effect): attempt to call an error function
+"CallCardFunction"(c62200000.initial_effect): attempt to call an error function
+[string "./script/c65010071.lua"]:71: unexpected symbol near ')'
+"CallCardFunction"(c65010071.initial_effect): attempt to call an error function
+[string "./script/c65011001.lua"]:26: attempt to index a nil value (global 'c65090001')
+[string "./script/c65011001.lua"]:10: Parameter 2 should be "Function".
+[string "./script/c65090038.lua"]:28: attempt to index a nil value (global 'c65090033')
+[string "./script/c65090038.lua"]:12: attempt to index a nil value (global 'c65090033')
+"CallCardFunction"(c77707031.initial_effect): attempt to call an error function
+[string "./script/c81014001.lua"]:35: attempt to call a nil value (method 'SetCounterLimit')
